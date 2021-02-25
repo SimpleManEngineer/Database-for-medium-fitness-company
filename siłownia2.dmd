@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="siłownia2" id="D43763BC-E7F9-3E24-0548-58ADF30B9B3E" version="3.5">
+<createdBy>Łukasz</createdBy>
+<createdTime>2021-02-15 15:01:15 UTC</createdTime>
+<ownerDesignName>siłownia2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D43763BC-E7F9-3E24-0548-58ADF30B9B3E</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="F6C6D7A1-6442-AF65-F0AF-92F65D431B51">
+<designStoragePath>C:\Users\Łukasz\baze danych\projekt siłka</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="9295BE52-F7A7-7377-52CE-606E04AE67CE">
+<designStoragePath>C:\Users\Łukasz\baze danych\siłkaV2</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="588C6A58-68CB-3769-3B0C-FC25FD1C3D5A">
+<designStoragePath>C:\Users\Łukasz\baze danych\siłkaV3</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
